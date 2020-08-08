@@ -35,7 +35,7 @@ This website seeks to complement the existing BLM website by providing an extend
 Two methods: Online and Local
 
 **Online Method** (gh-pages branch)\
-Access via website: https://blue-movement.github.io/team1_2020/
+Access via website: https://PrinceS25.github.io/BLM-Plus/
 
 **Local Method** (master branch)\
 Requires [node.js](https://nodejs.org/).
@@ -60,11 +60,11 @@ Environmental variable REACT_APP_GOOGLE_GEOLOCATION_API_KEY can be obtained from
 Environmental variable REACT_APP_GOOGLE_GEOCODE_API_KEY can be obtained from [Google Geocode API](https://developers.google.com/maps/documentation/geocoding/overview)\
 Environmental variable REACT_APP_OPENSTATES_API_KEY can be obtained from [Open States API](https://docs.openstates.org/en/latest/api/v2/)\
 
-See [sample.env](https://github.com/Blue-movement/team1_2020/blob/master/.sample_env) for an example.
+See [sample.env](https://github.com/PrinceS25/BLM-Plus/blob/master/.sample_env) for an example.
 
 ```sh
-$ git clone https://github.com/Blue-movement/team1_2020
-$ cd team1_2020
+$ git clone https://github.com/PrinceS25/BLM-Plus
+$ cd BLM-Plus
 $ ./run.sh
 ```
 
@@ -82,8 +82,10 @@ $ ./run.sh
 
 
 ### Directory Structure
-    team1_2020
+    BLM-Plus
     ├── ...
+    ├── flask_backend       # Python Backend server files
+    │   └── ...
     ├── public              # Files to display web page
     │   └── ...
     ├── src
