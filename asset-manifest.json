@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/team1_2020/static/css/main.f724578a.chunk.css",
-    "main.js": "/team1_2020/static/js/main.66194c71.chunk.js",
-    "main.js.map": "/team1_2020/static/js/main.66194c71.chunk.js.map",
-    "runtime-main.js": "/team1_2020/static/js/runtime-main.ab049e48.js",
-    "runtime-main.js.map": "/team1_2020/static/js/runtime-main.ab049e48.js.map",
-    "static/js/2.2e77de10.chunk.js": "/team1_2020/static/js/2.2e77de10.chunk.js",
-    "static/js/2.2e77de10.chunk.js.map": "/team1_2020/static/js/2.2e77de10.chunk.js.map",
-    "index.html": "/team1_2020/index.html",
-    "precache-manifest.4721efc20bdce2098ff0c093c259367e.js": "/team1_2020/precache-manifest.4721efc20bdce2098ff0c093c259367e.js",
-    "service-worker.js": "/team1_2020/service-worker.js",
-    "static/css/main.f724578a.chunk.css.map": "/team1_2020/static/css/main.f724578a.chunk.css.map",
-    "static/js/2.2e77de10.chunk.js.LICENSE.txt": "/team1_2020/static/js/2.2e77de10.chunk.js.LICENSE.txt",
-    "static/media/README.md": "/team1_2020/static/media/README.bff67802.md"
+    "main.css": "/BLM-Plus/static/css/main.f724578a.chunk.css",
+    "main.js": "/BLM-Plus/static/js/main.4903f75d.chunk.js",
+    "main.js.map": "/BLM-Plus/static/js/main.4903f75d.chunk.js.map",
+    "runtime-main.js": "/BLM-Plus/static/js/runtime-main.98849b40.js",
+    "runtime-main.js.map": "/BLM-Plus/static/js/runtime-main.98849b40.js.map",
+    "static/js/2.3531dd09.chunk.js": "/BLM-Plus/static/js/2.3531dd09.chunk.js",
+    "static/js/2.3531dd09.chunk.js.map": "/BLM-Plus/static/js/2.3531dd09.chunk.js.map",
+    "index.html": "/BLM-Plus/index.html",
+    "precache-manifest.6830997350a98e29c10a8c76573b4b5c.js": "/BLM-Plus/precache-manifest.6830997350a98e29c10a8c76573b4b5c.js",
+    "service-worker.js": "/BLM-Plus/service-worker.js",
+    "static/css/main.f724578a.chunk.css.map": "/BLM-Plus/static/css/main.f724578a.chunk.css.map",
+    "static/js/2.3531dd09.chunk.js.LICENSE.txt": "/BLM-Plus/static/js/2.3531dd09.chunk.js.LICENSE.txt",
+    "static/media/README.md": "/BLM-Plus/static/media/README.ee733253.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab049e48.js",
-    "static/js/2.2e77de10.chunk.js",
+    "static/js/runtime-main.98849b40.js",
+    "static/js/2.3531dd09.chunk.js",
     "static/css/main.f724578a.chunk.css",
-    "static/js/main.66194c71.chunk.js"
+    "static/js/main.4903f75d.chunk.js"
   ]
 }
